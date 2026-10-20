@@ -13,3 +13,5 @@ A compilation of a bunch of cool art resources and links I've found, stored conv
 
   
   Tada!
+
+(If you want any new links added, comment a link below, make your own fork, or DM me on discord with a link!)
