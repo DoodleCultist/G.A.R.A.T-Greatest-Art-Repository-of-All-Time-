@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c92fcdc00b184ce4","type":"group","x":-980,"y":0,"width":1280,"height":1420,"color":"5"},
+		{"id":"ab7ac4e72d8d8362","type":"file","file":"Resources/Vehicle Ref.md","x":-120,"y":120,"width":400,"height":400,"color":"3"},
+		{"id":"e504ce9e80a6caf4","type":"file","file":"Resources/Western Background Ref.md","x":-120,"y":560,"width":400,"height":400,"color":"3"},
+		{"id":"65b9a1da7377e453","type":"text","text":"Searchers","x":-885,"y":20,"width":250,"height":60,"color":"#d9124d"},
+		{"id":"79a78e5bd4bb70b4","type":"text","text":"Information","x":-465,"y":20,"width":250,"height":60,"color":"#af560e"},
+		{"id":"b10072b921ef6d0a","type":"text","text":"References\n","x":-45,"y":20,"width":250,"height":60,"color":"#f3ab12"},
+		{"id":"2e341eac90738db6","type":"file","file":"Resources/Anime Background Ref.md","x":-120,"y":1000,"width":400,"height":400,"color":"3"},
+		{"id":"cd2cd0cdc1e06ece","type":"file","file":"Resources/Animation Resources.md","x":-540,"y":1000,"width":400,"height":400,"color":"2"},
+		{"id":"50245ccb775978e1","type":"file","file":"Resources/Misc and Fun!.md","x":-960,"y":1000,"width":400,"height":400,"color":"1"},
+		{"id":"8ffcf10ca24ac4c0","type":"text","text":"# Credit to doodlecultist & Xie\n","x":-534,"y":1440,"width":388,"height":60,"color":"5"},
+		{"id":"5e7555bd481856b7","type":"file","file":"Resources/Art Books.md","x":-540,"y":120,"width":400,"height":400,"color":"2"},
+		{"id":"a4f30de415994b56","type":"file","file":"Resources/Tutorials.md","x":-540,"y":560,"width":400,"height":400,"color":"2"},
+		{"id":"f1473bdb578d7e2d","type":"file","file":"Resources/Asset Generators.md","x":-960,"y":560,"width":400,"height":400,"color":"1"},
+		{"id":"bae2e9bfd8f4e283","type":"file","file":"Resources/Image Searchers.md","x":-960,"y":120,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[]
+}

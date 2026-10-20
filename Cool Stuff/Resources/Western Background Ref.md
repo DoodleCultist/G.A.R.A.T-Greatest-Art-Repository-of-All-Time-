@@ -1,0 +1,6 @@
+- **Anime Background ref albums:** 
+- Your Name (Kimi no Na wa): [https://imgur.com/a/rwzBc](https://imgur.com/a/rwzBc "https://imgur.com/a/rwzBc") A Silent Voice (Koe no Katachi): [https://imgur.com/a/P46Fn](https://imgur.com/a/P46Fn "https://imgur.com/a/P46Fn")
+- Attack on Titan (2013): [https://imgur.com/a/e3k6b](https://imgur.com/a/e3k6b "https://imgur.com/a/e3k6b") 
+- Ghibli films: [https://imgur.com/gallery/dbELn](https://imgur.com/gallery/dbELn "https://imgur.com/gallery/dbELn") and [https://imgur.com/a/brgRI](https://imgur.com/a/brgRI "https://imgur.com/a/brgRI") and [https://imgur.com/a/xecSb](https://imgur.com/a/xecSb "https://imgur.com/a/xecSb") 
+- Princess Mononoke (1997): [https://imgur.com/a/MivGK](https://imgur.com/a/MivGK "https://imgur.com/a/MivGK") 
+- Akira (1988): httpss://imgur.com/a/KRdIj Matte/speedpaint by 泉彩: [https://imgur.com/a/Sppe0](https://imgur.com/a/Sppe0 "https://imgur.com/a/Sppe0") 

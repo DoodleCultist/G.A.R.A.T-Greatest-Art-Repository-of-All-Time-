@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "ebed963c2370f430",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf7a084fbd74677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d06386fe0d8ed0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Link Hub (CLICK HERE).canvas",
+                "viewState": {
+                  "x": -351.31627855515177,
+                  "y": 620.1499450415538,
+                  "zoom": -0.9999999999999998
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Link Hub (CLICK HERE)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6495a0e571131331",
+    "type": "split",
+    "children": [
+      {
+        "id": "347d467c76e9ff74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c93f3335eb896ddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a693940b27dab85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7c47f535eb02e08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d4efebc68c23681b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2ce0860c32bca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22ab9172a031d832",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Link Hub (CLICK HERE).canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1aa7055a9869e525",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Link Hub (CLICK HERE).canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3b4554cec2439da4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e091add241fbcd8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cf8769ce478b08a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Link Hub (CLICK HERE).canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "49d06386fe0d8ed0",
+  "lastOpenFiles": [
+    "images-1.jpg",
+    "Link Hub (CLICK HERE).canvas",
+    "Resources/Anime Background Ref.md",
+    "Resources/Drawing Resources.md",
+    "Untitled.webp",
+    "Resources/Misc and Fun!.md",
+    "Pasted image 20261020003317.png",
+    "images.jpg",
+    "Generators.md",
+    "Resources/Western Background Ref.md",
+    "Resources/Vehicle Ref.md",
+    "Resources/Tutorials.md",
+    "Resources/Art Books.md",
+    "Resources/Animation Resources.md",
+    "Resources/Asset Generators.md",
+    "Untitled",
+    "Resources/Image Searchers.md",
+    "Resources",
+    "Untitled.base",
+    "Welcome.md"
+  ]
+}
