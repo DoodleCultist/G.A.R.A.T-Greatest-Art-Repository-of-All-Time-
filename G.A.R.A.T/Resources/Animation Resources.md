@@ -8,6 +8,3 @@
 > [!Pixel art/animation:]
 >  [http://blog.studiominiboss.com/pixelart](http://blog.studiominiboss.com/pixelart "http://blog.studiominiboss.com/pixelart") 
 
-> [!Animation smears]
-> [http://animationsmears.tumblr.com/](http://animationsmears.tumblr.com/ "http://animationsmears.tumblr.com/") 
-

@@ -7,3 +7,7 @@
 
 > [!Textures]
 > Free textures: [https://lostandtaken.com/](https://lostandtaken.com/ "https://lostandtaken.com/") and [https://www.textures.com/](https://www.textures.com/ "https://www.textures.com/") (need account)
+
+> [!Animation Smears]
+> A collection of animation smears from different shows!
+> https://www.tumblr.com/animationsmears
